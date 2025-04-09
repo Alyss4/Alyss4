@@ -16,4 +16,4 @@
 ## 👀 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alyss4&color=blue)
 
-## <small>🚨 **Note** : Mon GitHub est principalement un espace où je teste, bricole et fais des essais. Il ne reflète pas l’ensemble de mes projets finis.</small>
+🚨 Note : Mon GitHub est principalement un espace où je teste, bricole et fais des essais. Il ne reflète pas l’ensemble de mes projets finis. 🚨
