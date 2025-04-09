@@ -1,13 +1,13 @@
-## Salut 👋 Moi c’est Alyss4! 
+## <div align="center"><h3> Salut 👋 Moi c’est Alyss4! </h3></div>
 
 <div align="center">
 🎓 Étudiante en Bachelor CDA @ CESI Nancy  
 💻 Développeuse fullstack 
 </div>
 
-## <div align="center"><h3>🔗 Me retrouver ici, là-bas, ou encore ailleurs</h3></div>
+## <div align="center"> <h4>🔗 Me retrouver ici, là-bas, ou encore ailleurs</h4></div>
 <div align="center">
-  <a href="https://friedrichalyssa.com" style="font-size: 20px; text-decoration: none;">Portfolio</a><br>
+  <a href="https://friedrichalyssa.com" style="font-size: 20px;">Portfolio</a><br>
   <a href="https://www.linkedin.com/in/alyssa-friedrich-f888/" style="font-size: 20px; text-decoration: none;">LinkedIn</a>
 </div>
 
