@@ -1,7 +1,9 @@
-# Salut 👋 Moi c’est Alyss4! 
+## Salut 👋 Moi c’est Alyss4! 
 
+<div align="center">
 🎓 Étudiante en Bachelor CDA @ CESI Nancy  
 💻 Développeuse fullstack 
+</div>
 
 ## <div align="center"><h3>🔗 Me retrouver ici, là-bas, ou encore ailleurs</h3></div>
 <div align="center">
