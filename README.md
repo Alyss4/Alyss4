@@ -9,9 +9,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyss4&layout=compact&theme=github_dark" width="48%" />
 </div>
 
+## 🔗 Me retrouver ici, là-bas, ou encore ailleurs
+- [Portfolio](https://friedrichalyssa.com)
+- [LinkedIn](https://www.linkedin.com/in/alyssa-friedrich-f888/)
+
 ## 👀 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alyss4&color=blue)
 
-## 🔗 Me retrouver ici, la-bas, ou encore ailleurs
-- [Portfolio](https://friedrichalyssa.com)
-- [LinkedIn](https://www.linkedin.com/in/alyssa-friedrich-f888/)
+## 🚨 **Note** : Mon GitHub est principalement un espace où je teste, bricole et fais des essais. Il ne reflète pas l’ensemble de mes projets finis. 
+
