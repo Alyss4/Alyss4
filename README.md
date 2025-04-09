@@ -3,9 +3,12 @@
 🎓 Étudiante en Bachelor CDA @ CESI Nancy  
 💻 Développeuse fullstack 
 
-## 🔗 Me retrouver ici, là-bas, ou encore ailleurs
-- [Portfolio](https://friedrichalyssa.com)
-- [LinkedIn](https://www.linkedin.com/in/alyssa-friedrich-f888/)
+## <div align="center"><h3>🔗 Me retrouver ici, là-bas, ou encore ailleurs</h3></div>
+<div align="center">
+  <a href="https://friedrichalyssa.com" style="font-size: 20px; text-decoration: none;">Portfolio</a><br>
+  <a href="https://www.linkedin.com/in/alyssa-friedrich-f888/" style="font-size: 20px; text-decoration: none;">LinkedIn</a>
+</div>
+
 
 ## 📊 Stats GitHub
 <div>
