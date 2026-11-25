@@ -10,7 +10,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alyss4&show_icons=true&locale=en" alt="alyss4" /></p>
 <div align="center"> <h3>🔗 Me retrouver ici, là-bas, ou encore ailleurs</h4></div>
 <div align="center">
   <a href="https://friedrichalyssa.com" style="font-size: 20px;">Portfolio</a><br>
